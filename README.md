@@ -3,3 +3,15 @@
 <!-- BEGIN YOUTUBE-CARDS -->
 
 <!-- END YOUTUBE-CARDS -->
+
+# What I code in, my IDE's, and also my favourite coding languages to use, and what I make!
+
+[![My Skills](https://skillicons.dev/icons?i=python,nodejs,kotlin,arduino,discord,bots,replit,visualstudio&theme=dark)](https://skillicons.dev)
+
+# My name = Alex
+# My age = 14
+# My favourite colour = Blue
+# My height = 6'1
+# My sign = Pisces
+# Do I have a lover = No
+# Whats my nationality = English

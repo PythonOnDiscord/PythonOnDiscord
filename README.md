@@ -2,6 +2,9 @@
 
 <!-- BEGIN YOUTUBE-CARDS -->
 
+# Before I ramble on.. join my discord server!
+https://discord.com/api/guilds/1090331259428933722/widget.json
+
 <!-- END YOUTUBE-CARDS -->
 
 # What I code in, my IDE's, and also my favourite coding languages to use, and what I make!
